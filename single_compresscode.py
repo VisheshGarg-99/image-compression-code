@@ -4,7 +4,7 @@
 import PIL 					#-----------------------------------Pillow library
 from PIL import Image
 
-mywidth = 5136				#-------------------------------------image width
+mywidth = <enter image width>				#-------------------------------------image width
 
 
 #--------------------------compression code--------------------------------------------------- 
